@@ -1,1 +1,1 @@
-# Connection POC TA Demo
+# Connection POC Text Analytics Email and Sentiment Analysis Demo
